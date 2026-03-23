@@ -1,4 +1,6 @@
-﻿# Default ignored files
+bin/
+obj/
+# Default ignored files
 /shelf/
 /workspace.xml
 # Rider ignored files
